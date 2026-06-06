@@ -76,6 +76,7 @@ https://github.com/mauvalenzuelaf-oss/sistema-llanquihue-tour-java.git
 ---
 
 **Repositorio GitHub:** https://github.com/mauvalenzuelaf-oss/sistema-llanquihue-tour-java
+
 **Fecha de entrega:** 08/06/2026
 
 ---
