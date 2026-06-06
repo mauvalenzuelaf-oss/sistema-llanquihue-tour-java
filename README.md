@@ -61,7 +61,7 @@ El proyecto aplica principios fundamentales de la programación orientada a obje
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/mauvalenzuelaf-oss/sistema-llanquihue-tour-java/tree/main/src
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -75,7 +75,7 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** \[https://github.com/mauvalenzuelaf-oss/sistema-llanquihue-tour-java/tree/main/src]
 **Fecha de entrega:** \[08/06/2026]
 
 ---
