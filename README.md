@@ -55,29 +55,16 @@ El proyecto aplica principios fundamentales de la programación orientada a obje
 ---
 
 ## 🧩 Organización por paquetes y subpaquetes
-**app:** Contiene la clase principal del programa. Desde Main.java se crean objetos válidos e inválidos para demostrar el funcionamiento del sistema.
 
-**model.persona:** Contiene las clases que representan los tipos de persona vinculados a Llanquihue Tour:
+**1. app:** Contiene la clase principal del programa. Desde Main.java se crean objetos válidos e inválidos para demostrar el funcionamiento del sistema.
 
-    Persona
-    
-    Cliente
-    
-    Empleado
-    
-    Colaborador
+**2. model:** Agrupa las clases que representan el modelo del sistema. Se divide en subpaquetes para separar las clases principales de persona de las clases que representan sus datos internos.
 
-**model.datos:** Contiene las clases que representan los datos internos que componen a una persona:
+**2.1. model.persona:** Contiene las clases que representan los tipos de persona vinculados a Llanquihue Tour: Persona, Cliente, Empleado, Colaborador
 
-    NombreCompleto
-    
-    Rut
-    
-    Direccion
-    
-    Correo
+**2.2. model.datos:** Contiene las clases que representan los datos internos que componen a una persona: NombreCompleto, Rut, Direccion y Correo
 
-**util:** Agrupa las excepciones personalizadas utilizadas para manejar errores de validación.
+**3. util:** Agrupa las excepciones personalizadas utilizadas para manejar errores de validación.
 
 ---
 
