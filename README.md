@@ -80,5 +80,4 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
-
+© Duoc UC | Escuela de Informática y Telecomunicaciones |
