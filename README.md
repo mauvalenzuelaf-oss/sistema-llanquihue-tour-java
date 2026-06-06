@@ -60,11 +60,11 @@ El proyecto aplica principios fundamentales de la programación orientada a obje
 
 **2. model:** Agrupa las clases que representan el modelo del sistema. Se divide en subpaquetes para separar las clases principales de persona de las clases que representan sus datos internos.
 
-**2.1. model.persona:** Contiene las clases que representan los tipos de persona vinculados a Llanquihue Tour: Persona, Cliente, Empleado, Colaborador
+**2.1. model.persona:** Contiene las clases que representan los tipos de persona vinculados a Llanquihue Tour (Persona, Cliente, Empleado y Colaborador).
 
-**2.2. model.datos:** Contiene las clases que representan los datos internos que componen a una persona: NombreCompleto, Rut, Direccion y Correo
+**2.2. model.datos:** Contiene las clases que representan los datos internos que componen a una persona (NombreCompleto, Rut, Direccion y Correo).
 
-**3. util:** Agrupa las excepciones personalizadas utilizadas para manejar errores de validación.
+**3. util:** Agrupa las excepciones personalizadas utilizadas para manejar errores de validación (Ejemplo: RutInvalidoException).
 
 ---
 
