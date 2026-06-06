@@ -9,7 +9,7 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Evaluación Final Transversal de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar personas vinculadas a la empresa de turismo *Llanquihue Tour*.
+Este proyecto corresponde a la Evaluación Sumativa N° 1 de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar personas vinculadas a la empresa de turismo *Llanquihue Tour*.
 
 El sistema representa distintos tipos de personas dentro del contexto de una agencia turística:
 
