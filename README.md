@@ -72,7 +72,7 @@ El proyecto aplica principios fundamentales de la programación orientada a obje
 
 **1. Herencia:** Las clases Cliente, Empleado y Colaborador heredan de la clase Persona.
 
-**2. Composición:** La clase Persona está compuesta por objetos de otras clases:
+**2. Composición:** La clase Persona está compuesta por objetos de otras clases.
 
 **3. Encapsulamiento:** Los atributos de las clases se declaran como private y se accede a ellos mediante constructores, getters y setters.
 
