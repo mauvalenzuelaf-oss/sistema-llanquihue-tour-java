@@ -25,7 +25,6 @@ replay_pid*
 
 # IntelliJ IDEA
 .idea/
-*.iml
 
 # Carpeta de salida/compilación
 out/
