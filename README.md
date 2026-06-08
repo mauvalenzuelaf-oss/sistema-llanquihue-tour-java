@@ -94,7 +94,7 @@ git clone https://github.com/mauvalenzuelaf-oss/sistema-llanquihue-tour-java.git
 
 3. Verifica que la carpeta src contenga los paquetes app, model y util.
 
-4. Ejecuta el archivo `Main.java` desde el paquete `app`.
+4. Ejecuta el archivo Main.java desde el paquete app.
 
 5. Revisa la salida por consola, donde se mostrarán los casos válidos y los casos inválidos controlados mediante excepciones personalizadas.
 
