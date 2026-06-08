@@ -87,7 +87,7 @@ El proyecto aplica principios fundamentales de la programación orientada a obje
 1. Clona el repositorio desde GitHub:
 
 ```bash
-https://github.com/mauvalenzuelaf-oss/sistema-llanquihue-tour-java.git
+git clone https://github.com/mauvalenzuelaf-oss/sistema-llanquihue-tour-java.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
